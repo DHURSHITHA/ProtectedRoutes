@@ -4,7 +4,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication using React Context API
 - Login and logout functionality
@@ -14,7 +14,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React**
 - **React Router DOM**
@@ -25,7 +25,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## 🧠 How Authentication Works
+##  How Authentication Works
 
 1. The user clicks the **Login** button.
 2. The `login()` function updates the `user` state in `AuthContext`.
@@ -36,7 +36,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## 🧭 Routing Overview
+##  Routing Overview
 
 | Route        | Access    | Description    |
 |--------------|-----------|----------------|
@@ -46,7 +46,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## 🔐 ProtectedRoute Logic
+##ProtectedRoute Logic
 
 - Uses `useContext(AuthContext)`
 - Checks if `user` is `null`
@@ -54,7 +54,7 @@ This project demonstrates how to implement authentication and protected routes i
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 2. Install dependencies:
